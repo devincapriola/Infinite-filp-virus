@@ -1,4 +1,5 @@
 # Infinite filp virus
+This will rotate your desktop every 0.1 seconds 
 
 ## :package: Download and Setup
 Make sure you have [Python3](https://www.python.org/download/) installed on your operating system.
